@@ -20,30 +20,15 @@
 		"links": [
 			{ "title": "Product", "href": "/docs/reference/product" },
 			{ "title": "Location", "href": "/docs/reference/location" },
-			{ "title": "Provider", "href": "/docs/reference/provider" }
+			{ "title": "Provider", "href": "/docs/reference/provider" },
+			{ "title": "Invoice", "href": "/docs/reference/invoice"}
 		]
 	},
 	{
-		"title": "Advanced guides",
+		"title": "Libraries",
 		"links": [
-			{ "title": "Writing plugins", "href": "/docs/writing-plugins" },
-			{ "title": "Neuralink integration", "href": "/docs/neuralink-integration" },
-			{ "title": "Temporal paradoxes", "href": "/docs/temporal-paradoxes" },
-			{ "title": "Testing", "href": "/docs/testing" },
-			{ "title": "Compile-time caching", "href": "/docs/compile-time-caching" },
-			{
-				"title": "Predictive data generation",
-				"href": "/docs/predictive-data-generation"
-			}
-		]
-	},
-	{
-		"title": "API reference",
-		"links": [
-			{ "title": "CacheAdvance.predict()", "href": "/docs/cacheadvance-predict" },
-			{ "title": "CacheAdvance.flush()", "href": "/docs/cacheadvance-flush" },
-			{ "title": "CacheAdvance.revert()", "href": "/docs/cacheadvance-revert" },
-			{ "title": "CacheAdvance.regret()", "href": "/docs/cacheadvance-regret" }
+			{ "title": "C# .Net Library", "href": "/docs/libraries/dotnet" },
+			{ "title": "Javascript Library", "href": "/docs/libraries/javascript" }
 		]
 	},
 	{
